@@ -1,0 +1,45 @@
+#One{
+    width:1400px;
+    height: 2000px;
+    margin:10px auto;
+    font-size:60px;
+    box-sizing:border-box;
+    font-family:Arial;
+    text-align: center;
+    padding-top: 40px;
+}
+h1{
+    font-family:Georgia;
+    font-size: 250px;
+    margin-bottom: 50px;
+}
+input{
+    width:1400px;
+    height:150px;
+    border-radius: 30px;
+    margin:20px 16px;
+    font-size: 60px;
+    border: 5px solid lightgray;
+}
+#Two{
+    text-align: center;
+    padding-left: 100px;
+}
+button{
+    width:1000px;
+    height:200px;
+    margin-top: 130px;
+    margin-bottom: 130px;
+    border-radius: 100px;
+    color: white;
+    background-color: black;
+    font-size: 70px;
+}
+p{
+    font-size:65px;
+    color: rgb(94, 94, 94);
+    width:1300px
+}
+a{
+    color:rgb(94, 94, 94);
+}

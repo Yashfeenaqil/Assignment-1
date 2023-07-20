@@ -1,0 +1,38 @@
+#Big{
+    width:1400px;
+    height: 2000px;
+    margin:20px auto;
+    font-size:60px;
+    border-radius: 40px;
+    box-sizing:border-box;
+    font-family:Arial;
+    border: 5px solid lightgrey;
+}
+img{
+    width:100%;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+}
+.dist{
+    padding-left: 80px;
+}
+h3{
+    width:1000px;
+    font-weight: lighter;
+}
+p{
+    font-size: 65px;
+    color: rgb(94, 94, 94);
+    width: 1200px;
+}
+button{
+    margin-left: 80px;
+    width: 500px;
+    height: 100px;
+    border: 5px solid lightgray;
+    border-radius: 10px;
+    color: rgb(61, 140, 167);
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}

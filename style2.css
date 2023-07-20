@@ -1,0 +1,34 @@
+.one{
+    width:1800px;
+    height: 1300px;
+    margin:20px auto;
+    font-size:70px;
+    border-radius: 30px;
+    padding-top: 15px;
+    box-sizing:border_box;
+    font-family:Arial;
+    border: 5px solid lightgrey;
+}
+h2{
+    font-weight: lighter;
+}
+p{
+    width:1300px;
+    font-size: 60px;
+    color: grey;
+}
+img{
+    width:500px;
+    border-radius: 500px;
+    margin-right: 60px;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+.two{
+    padding-left:350px;
+}
+.dist{
+    padding-left: 150px;
+}

@@ -1,0 +1,24 @@
+div{
+    background-color: rgb(44, 216, 144);
+    width:1500px;
+    height: 1200px;
+    margin:20px auto;
+    font-size:70px;
+    border-radius: 25px;
+    padding-top: 200px;
+    padding-left: 150px;
+    box-sizing:border_box;
+    font-family:Arial;
+}
+.para{
+    font-size: 50px;
+}
+button{
+    border-radius: 50px;
+    width:550px;
+    height: 120px;
+    margin-top: 50px;
+    border: none;
+    font-size: 50px;
+    text-align: center;
+}
